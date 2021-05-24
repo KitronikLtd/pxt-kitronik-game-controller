@@ -11,7 +11,7 @@
         "controller.ts",
         "shims.d.ts",
         "enums.d.ts",
-        "controller.cpp"
+        "controller.cpp",
         "_locales/hu/pxt-kitronik-game-controller-jsdoc-strings.json",
         "_locales/hu/pxt-kitronik-game-controller-strings.json"
     ],
