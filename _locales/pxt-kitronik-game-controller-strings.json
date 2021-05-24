@@ -1,0 +1,19 @@
+{
+  "Kitronik_Game_Controller.ControllerButtonEvents.Click|block": "click",
+  "Kitronik_Game_Controller.ControllerButtonEvents.Down|block": "down",
+  "Kitronik_Game_Controller.ControllerButtonEvents.Up|block": "up",
+  "Kitronik_Game_Controller.ControllerButtonPins.Down|block": "Joypad Down (P14)",
+  "Kitronik_Game_Controller.ControllerButtonPins.Fire1|block": "Fire 1 (P15)",
+  "Kitronik_Game_Controller.ControllerButtonPins.Fire2|block": "Fire 2 (P16)",
+  "Kitronik_Game_Controller.ControllerButtonPins.Left|block": "Joypad Left (P12)",
+  "Kitronik_Game_Controller.ControllerButtonPins.Right|block": "Joypad Right (P13)",
+  "Kitronik_Game_Controller.ControllerButtonPins.Up|block": "Joypad Up (P8)",
+  "Kitronik_Game_Controller.buttonIsPressed|block": "button %button|is pressed",
+  "Kitronik_Game_Controller.onButtonPress|block": "on button %button|press %event",
+  "Kitronik_Game_Controller.runMotor|block": "Run motor for %run_time|ms",
+  "Kitronik_Game_Controller.setBuzzerPin|block": "set pitch pin to buzzer",
+  "Kitronik_Game_Controller|block": ":GAME Controller",
+  "{id:category}Kitronik_Game_Controller": "Kitronik_Game_Controller",
+  "{id:group}Feedback": "Feedback",
+  "{id:group}Inputs": "Inputs"
+}

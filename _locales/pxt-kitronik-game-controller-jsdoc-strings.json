@@ -1,0 +1,14 @@
+{
+  "Kitronik_Game_Controller": "Blocks for driving the Kitronik :GAME Controller\r\n\nBlocks for driving the Kitronik :GAME Controller",
+  "Kitronik_Game_Controller.ControllerButtonEvents": ":GAME Controller Button Events",
+  "Kitronik_Game_Controller.ControllerButtonPins": ":GAME Controller Button Pins",
+  "Kitronik_Game_Controller.ControllerButtons": ":GAME Controller Standard Buttons",
+  "Kitronik_Game_Controller.buttonIsPressed": "Determines if a :GAME Controller button is pressed",
+  "Kitronik_Game_Controller.buttonIsPressed|param|button": "press to be checked",
+  "Kitronik_Game_Controller.onButtonPress": "Do something when one of the :GAME Controller Buttons is pressed",
+  "Kitronik_Game_Controller.onButtonPress|param|button": "press to be checked",
+  "Kitronik_Game_Controller.onButtonPress|param|event": "happening on the button, eg: click",
+  "Kitronik_Game_Controller.runMotor": "Run vibration motor for a particular length of time",
+  "Kitronik_Game_Controller.runMotor|param|run_time": "is the length of time the motor will run in ms, eg: 100",
+  "Kitronik_Game_Controller.setBuzzerPin": "Setup micro:bit to play music through :GAME Controller buzzer"
+}

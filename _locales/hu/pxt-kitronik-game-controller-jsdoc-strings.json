@@ -1,0 +1,14 @@
+{
+  "Kitronik_Game_Controller": "Blokkok a Kitronik :GAME Controller használatához\r\n\nBBlokkok a Kitronik :GAME Controller használatához",
+  "Kitronik_Game_Controller.ControllerButtonEvents": ":GAME Controller gomb-események",
+  "Kitronik_Game_Controller.ControllerButtonPins": ":GAME Controller gomb-lábak",
+  "Kitronik_Game_Controller.ControllerButtons": ":GAME Controller alap gombok",
+  "Kitronik_Game_Controller.buttonIsPressed": "Eldönti, hogy egy :GAME Controller gomb meg van-e nyomva",
+  "Kitronik_Game_Controller.buttonIsPressed|param|button": "nyomd meg az ellenőrzéshez",
+  "Kitronik_Game_Controller.onButtonPress": "Csináljon valamit, amikor a :GAME Controller egyik gomja meg van nyomva",
+  "Kitronik_Game_Controller.onButtonPress|param|button": "nyomd meg az ellenőrzéshez",
+  "Kitronik_Game_Controller.onButtonPress|param|event": "a gombon kiváltott esemény, pl. kattintás",
+  "Kitronik_Game_Controller.runMotor": "A vibráló motor működtetése meghatározott hosszúságú ideig",
+  "Kitronik_Game_Controller.runMotor|param|run_time": "a motor működési ideje ms-ban megadva, pl.: 100",
+  "Kitronik_Game_Controller.setBuzzerPin": "A micro:bit beállítása, hogy a hangok a :GAME Controller zümmerén szóljanak"
+}

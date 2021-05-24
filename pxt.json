@@ -1,6 +1,6 @@
 {
     "name": "pxt-kitronik-game-controller",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Blocks for driving the Kitronik :GAME Controller",
     "license": "MIT",
     "dependencies": {
@@ -12,6 +12,8 @@
         "shims.d.ts",
         "enums.d.ts",
         "controller.cpp"
+        "_locales/hu/pxt-kitronik-game-controller-jsdoc-strings.json",
+        "_locales/hu/pxt-kitronik-game-controller-strings.json"
     ],
     "testFiles": [
         "tests.ts"
