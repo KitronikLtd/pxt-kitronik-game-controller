@@ -1,6 +1,6 @@
 {
     "name": "pxt-kitronik-game-controller",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "Blocks for driving the Kitronik :GAME Controller",
     "license": "MIT",
     "dependencies": {
